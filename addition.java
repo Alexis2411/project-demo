@@ -2,4 +2,4 @@
 
 /*author alexis*/
 
-/*code ready*/
+/*code is ready*/
